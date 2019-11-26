@@ -1,4 +1,4 @@
-# Cara memindahkan form;
+# Cara memindahkan form
 
 Jika ingin memindahkan kode dan/atau form,
 
