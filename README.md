@@ -1,5 +1,5 @@
 # Cara memindahkan form
 
-Jika ingin memindahkan kode dan/atau form,
+Jika anda ingin memindahkan kode dan/atau form,
 
-Cukup drag kode dan/atau form yang sudah anda download ke source package projek netbeans.
+Cukup drag file kode dan/atau form yang sudah anda download ke source package projek netbeans.
